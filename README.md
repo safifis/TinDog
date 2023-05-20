@@ -1,2 +1,2 @@
 # TinDog
-This is the first front end development project I completed under Angela Yu's instruction using HTML, CSS and BootStrap.
+This is the first front end development project I completed using HTML, CSS and BootStrap.
